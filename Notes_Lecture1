@@ -1,0 +1,19 @@
+What to ask about a programming language?
+- Primitive elements (what came with the language)
+- means of combination (how do i build bigger things with what came with it)
+- means of abstraction 
+
+LISP
+-------------
+- Numbers are primitive objects in Lisp.
+  (+ 3 4 5) - example of combination generally consists of an operator and some operands.
+  can be thought of as a tree with 
+
+- Prefix notation - operator is to the left of the operands. 
+- Fully parenthesized - very important. 
+
+- means of abstraction 
+  (Define A (+ 5 5))
+  
+
+
